@@ -1,0 +1,6 @@
+/* Required for concepts */
+/* You can choose another material theme if you want to */
+@import "~@angular/material/prebuilt-themes/indigo-pink.css";
+@import "~bootstrap/dist/css/bootstrap.min.css";
+
+/* Put your CSS here */
